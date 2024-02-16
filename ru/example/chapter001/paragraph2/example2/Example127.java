@@ -1,4 +1,4 @@
-package ru.example.chapter001.ru.example.chapter001.exercise1;
+package ru.example.chapter001.ru.example.chapter001.paragraph2.example2;
 
 public class Example127 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.example.chapter001.ru.example.chapter001.exercise1;
+package ru.example.chapter001.ru.example.chapter001.paragraph2.example2;
 
 import java.util.Scanner;
 

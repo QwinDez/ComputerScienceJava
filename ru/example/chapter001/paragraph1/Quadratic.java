@@ -1,4 +1,4 @@
-package ru.example.chapter001.ru.example.chapter001.exercise1.ru.example.chapter001;
+package ru.example.chapter001.ru.example.chapter001.paragraph1;
 
 public class Quadratic {
     public static void main(String[] args) {
