@@ -7,7 +7,7 @@ public class PowersOfK {
         int k = new Scanner(System.in).nextInt(), i = 0;
         long n = Long.MAX_VALUE;
         while (Math.pow(k, i) <= n) {
-            System.out.println(i);
+            System.out.println("Результат возведения числа " + k + " в степень " + i + " - " + (long) Math.pow(k, i) + "\t" + " положительные степени числа: " + k  + " - " + i);
             i++;
         }
     }
