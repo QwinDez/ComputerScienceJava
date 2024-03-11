@@ -10,7 +10,7 @@ public class Example1345 {
         for (int i = 0; i < t; i++) {
             x = 1.0 - 1.0 / r;
             x += t;
-            System.out.println(x);
+            System.out.println(x + "");
         }
     }
 }
