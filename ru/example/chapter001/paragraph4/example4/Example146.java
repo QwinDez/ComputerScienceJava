@@ -1,7 +1,5 @@
 package ru.example.chapter001.ru.example.chapter001.paragraph4.example4;
 
-import java.util.Scanner;
-
 public class Example146 {
     public static void main(String[] args) {
         char[][] b = {
